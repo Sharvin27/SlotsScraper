@@ -1,0 +1,22 @@
+{
+  "name": "whatsappbot",
+  "version": "1.0.0",
+  "description": "WhatsApp bot using Baileys and Firebase",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "postinstall": "puppeteer install"
+  },
+  "keywords": [
+    "firebase",
+    "puppeteer"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.0.0",
+    "express": "^5.1.0",
+    "firebase-admin": "^13.4.0",
+    "puppeteer": "^24.11.2"
+  }
+}
