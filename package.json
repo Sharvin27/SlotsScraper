@@ -1,7 +1,7 @@
 {
-  "name": "whatsappbot",
+  "name": "slots-scraper",
   "version": "1.0.0",
-  "description": "WhatsApp bot using Baileys and Firebase",
+  "description": "Visa slots availability tracker and notification bot.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
